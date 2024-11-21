@@ -1,15 +1,15 @@
 ---
-cover: .gitbook/assets/tolol header.png
+cover: .gitbook/assets/WhatsApp Image 2024-11-21 at 16.41.30.jpeg
 coverY: 0
 ---
 
-# 💢 About us
+# 🤡 About us
 
-$TOLOL 💢 is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. the coin is completely useless and for entertainment purposes only.
+$TOLOL 🤡 is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. the coin is completely useless and for entertainment purposes only.
 
-<figure><img src=".gitbook/assets/Meme.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/WhatsApp Image 2024-11-21 at 16.38.49.jpeg" alt=""><figcaption></figcaption></figure>
 
-#### Risks of Investing in $TOLOL 💢
+#### Risks of Investing in $TOLOL 🤡
 
 **Lack of Intrinsic Value**
 
@@ -33,7 +33,7 @@ The value of $TOLOL is driven purely by speculation and social media hype, rathe
 
 Investing in $TOLOL should be approached with extreme caution, understanding that it's akin to gambling rather than a traditional investment. Potential investors should only allocate funds that they are fully prepared to lose.
 
-#### Potential Benefits of Investing in $TOLOL 💢
+#### Potential Benefits of Investing in $TOLOL 🤡
 
 **Community Engagement and Entertainment**
 

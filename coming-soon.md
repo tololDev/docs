@@ -4,5 +4,5 @@ description: Prolly NOTHING!
 
 # 👀 Coming soon
 
-* TOLOL Swap 💢
-* TOLOL Liquid Staking 💢
+* TOLOL Swap 🤡
+* TOLOL Liquid Staking 🤡
