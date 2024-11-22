@@ -8,9 +8,5 @@
 
 **👥 NO team**
 
-
-
-### Total Supply of $TOLOL 🤡
-
-1B Max. token supplies
+**🪙 1B total supplies**&#x20;
 

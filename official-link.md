@@ -1,7 +1,7 @@
 # 🔗 Official Link
 
-* [Official X Account](https://x.com/tolol\_sol)
-* [Linktree](https://linktr.ee/tolol.sol)
-* [Zealy](https://zealy.io/c/tolol/questboard?invitationId=hfE1vCA9VFuazJV5a-Gv6)
-* [Telegram](https://t.me/tolol\_sol)
+* [Website](https://tolol.fun)
+* [Official X Account](https://x.com/tolol_sol)
+* [Telegram](https://t.me/tolol_sol)
+* [Price Chart](https://gmgn.ai/sol/token/ecTwQKax_761aEmBv1wsRPV37RhJQNfMr2TC1eDvMSuYwcz8Apump)
 
